@@ -1,2 +1,4 @@
-GitÃüÁî
-add °Ñ±ä¸üÂ¼Èëµ½Ë÷ÒýÖÐ
+Gitå‘½ä»¤
+add æŠŠå˜æ›´å½•å…¥åˆ°ç´¢å¼•ä¸­
+
+pull
